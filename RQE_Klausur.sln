@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RQE_Klausur", "RQE_Klausur\RQE_Klausur.csproj", "{EFDEC720-3AD4-4662-B612-10D030279FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFDEC720-3AD4-4662-B612-10D030279FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDEC720-3AD4-4662-B612-10D030279FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDEC720-3AD4-4662-B612-10D030279FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDEC720-3AD4-4662-B612-10D030279FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {181D8307-4623-4117-951C-33DD4C73EFF8}
+	EndGlobalSection
+EndGlobal
